@@ -1,0 +1,24 @@
+[ 2016-09-13T05:15:14+08:00 ] ::1 /MyShowApp/index.php/home/user/login
+ERR: 非法操作:login
+
+[ 2016-09-13T05:15:49+08:00 ] ::1 /MyShowApp/index.php/home/index/login
+ERR: 非法操作:login
+
+[ 2016-09-13T05:15:54+08:00 ] ::1 /MyShowApp/index.php/home/index/login
+ERR: 非法操作:login
+
+[ 2016-09-13T05:27:46+08:00 ] ::1 /MyShowApp/index.php/home/user/longin
+ERR: 非法操作:longin
+
+[ 2016-09-13T05:27:49+08:00 ] ::1 /MyShowApp/index.php/home/user/longin
+ERR: 非法操作:longin
+
+[ 2016-09-13T11:31:34+08:00 ] ::1 /MyShowApp/index.php/home/show/collect
+ERR: 非法操作:collect
+
+[ 2016-09-13T11:42:24+08:00 ] ::1 /MyShowApp/index.php/home/user/updatapassword
+ERR: 非法操作:updatapassword
+
+[ 2016-09-13T11:44:08+08:00 ] ::1 /MyShowApp/index.php/home/user/updatapassword
+ERR: 非法操作:updatapassword
+

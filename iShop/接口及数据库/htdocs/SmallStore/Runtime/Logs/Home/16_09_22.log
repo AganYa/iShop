@@ -1,0 +1,102 @@
+[ 2016-09-22T01:40:34+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 无法加载控制器:Addgoodscar
+
+[ 2016-09-22T01:41:33+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 无法加载控制器:Addgoodscar
+
+[ 2016-09-22T01:44:58+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 无法加载控制器:Addgoodscar
+
+[ 2016-09-22T01:48:19+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 无法加载控制器:Addgoodscar
+
+[ 2016-09-22T01:49:01+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 无法加载控制器:Addgoodscar
+
+[ 2016-09-22T06:33:26+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar/selects
+ERR: 非法操作:selects
+
+[ 2016-09-22T06:33:41+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar/
+ERR: 非法操作:index
+
+[ 2016-09-22T06:33:49+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar
+ERR: 非法操作:index
+
+[ 2016-09-22T06:33:51+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar
+ERR: 非法操作:index
+
+[ 2016-09-22T06:38:48+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar
+ERR: 非法操作:index
+
+[ 2016-09-22T06:39:46+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar/add
+ERR: 非法操作:add
+
+[ 2016-09-22T06:40:01+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar/add
+ERR: 非法操作:add
+
+[ 2016-09-22T06:41:29+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 无法加载控制器:Addgoodscar
+
+[ 2016-09-22T06:42:57+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 无法加载控制器:Addgoodscar
+
+[ 2016-09-22T06:43:39+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 无法加载控制器:Addgoodscar
+
+[ 2016-09-22T06:44:19+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`smallstore`.`t_add`, CONSTRAINT `fk_add_id` FOREIGN KEY (`user_id`) REFERENCES `t_userinfo` (`user_id`))
+ [ SQL语句 ] : INSERT INTO `t_add` (`user_id`,`goods_id`) VALUES ('5','2')
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`smallstore`.`t_add`, CONSTRAINT `fk_add_id` FOREIGN KEY (`user_id`) REFERENCES `t_userinfo` (`user_id`))
+ [ SQL语句 ] : INSERT INTO `t_add` (`user_id`,`goods_id`) VALUES ('5','2')
+
+[ 2016-09-22T06:45:51+08:00 ] ::1 /SmallStore/index.php/home/goods/add
+ERR: 非法操作:add
+
+[ 2016-09-22T06:46:02+08:00 ] ::1 /SmallStore/index.php/home/goods/addss
+ERR: 非法操作:addss
+
+[ 2016-09-22T06:47:15+08:00 ] ::1 /SmallStore/index.php/home/goods/addss
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`smallstore`.`t_add`, CONSTRAINT `fk_add_id` FOREIGN KEY (`user_id`) REFERENCES `t_userinfo` (`user_id`))
+ [ SQL语句 ] : INSERT INTO `t_add` (`user_id`,`goods_id`) VALUES ('5','2')
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`smallstore`.`t_add`, CONSTRAINT `fk_add_id` FOREIGN KEY (`user_id`) REFERENCES `t_userinfo` (`user_id`))
+ [ SQL语句 ] : INSERT INTO `t_add` (`user_id`,`goods_id`) VALUES ('5','2')
+
+[ 2016-09-22T06:50:27+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`smallstore`.`t_add`, CONSTRAINT `fk_add_id` FOREIGN KEY (`user_id`) REFERENCES `t_userinfo` (`user_id`))
+ [ SQL语句 ] : INSERT INTO `t_add` (`user_id`,`goods_id`) VALUES ('5','2')
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`smallstore`.`t_add`, CONSTRAINT `fk_add_id` FOREIGN KEY (`user_id`) REFERENCES `t_userinfo` (`user_id`))
+ [ SQL语句 ] : INSERT INTO `t_add` (`user_id`,`goods_id`) VALUES ('5','2')
+
+[ 2016-09-22T06:50:42+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`smallstore`.`t_add`, CONSTRAINT `fk_add_id` FOREIGN KEY (`user_id`) REFERENCES `t_userinfo` (`user_id`))
+ [ SQL语句 ] : INSERT INTO `t_add` (`user_id`,`goods_id`) VALUES ('5','4')
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`smallstore`.`t_add`, CONSTRAINT `fk_add_id` FOREIGN KEY (`user_id`) REFERENCES `t_userinfo` (`user_id`))
+ [ SQL语句 ] : INSERT INTO `t_add` (`user_id`,`goods_id`) VALUES ('5','4')
+
+[ 2016-09-22T06:50:47+08:00 ] ::1 /SmallStore/index.php/home/addgoodscar/add
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`smallstore`.`t_add`, CONSTRAINT `fk_add_id` FOREIGN KEY (`user_id`) REFERENCES `t_userinfo` (`user_id`))
+ [ SQL语句 ] : INSERT INTO `t_add` (`user_id`,`goods_id`) VALUES ('3','4')
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`smallstore`.`t_add`, CONSTRAINT `fk_add_id` FOREIGN KEY (`user_id`) REFERENCES `t_userinfo` (`user_id`))
+ [ SQL语句 ] : INSERT INTO `t_add` (`user_id`,`goods_id`) VALUES ('3','4')
+
+[ 2016-09-22T07:09:44+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar/selects
+ERR: 无法加载控制器:Addgoodcar
+
+[ 2016-09-22T07:17:34+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar/selects
+ERR: 无法加载控制器:Addgoodcar
+
+[ 2016-09-22T07:17:49+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar/selects
+ERR: 无法加载控制器:Addgoodcar
+
+[ 2016-09-22T07:17:54+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar/selects
+ERR: 无法加载控制器:Addgoodcar
+
+[ 2016-09-22T07:20:57+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar/selects
+ERR: 无法加载控制器:Addgoodcar
+
+[ 2016-09-22T07:34:20+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar/selects
+ERR: 无法加载控制器:Addgoodcar
+
+[ 2016-09-22T07:35:32+08:00 ] ::1 /SmallStore/index.php/home/addgoodcar/selects
+ERR: 无法加载控制器:Addgoodcar
+

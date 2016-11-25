@@ -1,0 +1,26 @@
+//
+//  define.pch
+//  demo-微店
+//
+//  Created by Agan on 16/9/20.
+//  Copyright © 2016年 Agan. All rights reserved.
+//
+
+#ifndef define_pch
+#define define_pch
+#define APPDELEGATE ((AppDelegate*)[[UIApplication sharedApplication] delegate])
+#define Titles @"http://localhost:8888/SmallStore/index.php/home/goods/good"
+#define Title @"http://localhost:8888/SmallStore/index.php/home/goods/good"
+#define shoesAPI @"http://localhost:8888/SmallStore/index.php/home/goods/shoes"
+#define CoatAPI @"http://localhost:8888/SmallStore/index.php/home/goods/Coat"
+#define PantAPI @"http://localhost:8888/SmallStore/index.php/home/goods/Pants"
+#define AddGoodCarAPI @"http://localhost:8888/SmallStore/index.php/home/addgoodscar/add"
+#define selectAPI @"http://localhost:8888/SmallStore/index.php/home/addgoodscar/selected"
+
+
+#define Register @"http://localhost:55555/SmallStore/index.php/home/user/register"
+#define login @"http://localhost:55555/SmallStore/index.php/home/user/login"
+
+
+
+#endif 
